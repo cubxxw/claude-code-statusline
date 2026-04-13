@@ -8,7 +8,7 @@ Beautiful, informative status lines for [Claude Code](https://code.claude.com). 
 5h ━━━━━━── 72% 1h30m │ 7d ━━━───── 45% 48h0m
 ```
 
-![Uploading image.png…]()
+![claude](claude-pc.png)
 
 
 ## Quick Start
